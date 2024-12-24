@@ -7,7 +7,6 @@
 // #include <io.h>
 
 #define MAXINODE 5
-#define ty  
 #define READ 1
 #define WRITE 2
 
